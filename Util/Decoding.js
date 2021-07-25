@@ -3,7 +3,7 @@ module.exports.edgeDecode = function(str) {
     var charArr = str.split("\u26B8");
     var returnArr = [];
 
-    charArr.filter((e) => e.length > 0);
+    charArr.pop();
 
     charArr.forEach((e) => {
 
