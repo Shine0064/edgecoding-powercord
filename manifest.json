@@ -1,7 +1,7 @@
 {
   "name": "Edgecoding",
-  "version": "1.0.0",
-  "description": "Command to Edgecode text",
+  "version": "1.0.1",
+  "description": "Commands to Edgecode and Deedgecode text",
   "author": "SirShine",
   "license": "MIT"
 }
